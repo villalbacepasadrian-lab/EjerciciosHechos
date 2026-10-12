@@ -6,7 +6,7 @@ h4 {
 
 main {
     min-height: 100vh;
-    background-image: url("../PNG/flor.png");
+    background-image: url("../PNG/flor.PNG");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 55% auto; 
