@@ -1,11 +1,9 @@
-/* Margenes de la pagina */
 body {
     margin: 15px 58px;
 }
  
-/* Barras azules de los titulos */
 h2 {
-    background-color: #6edbf7;
+    background-color: #5db3c9;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1rem;
     font-style: italic;
@@ -14,7 +12,6 @@ h2 {
     border-radius: 10px;
 }
  
-/* Listas no ordenadas: circulo, y cuadrado en las anidadas */
 ul {
     list-style-type: circle;
 }
@@ -23,7 +20,6 @@ ul ul {
     list-style-type: square;
 }
  
-/* Lista ordenada: numeros, letras (a, b) y romanos (i, ii) */
 ol {
     list-style-type: decimal;
 }
@@ -36,12 +32,10 @@ ol ol ol {
     list-style-type: lower-roman;
 }
  
-/* Lista no ordenada dentro de una ordenada: cuadrado */
 ol ul {
     list-style-type: square;
 }
  
-/* Linea gris separadora */
 hr {
     border: none;
     border-top: 2px solid #777777;
