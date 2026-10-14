@@ -3,38 +3,28 @@ body {
     border: 1px solid #68d7eb;
     padding: 10px;
 }
- 
-
- 
 h3 {
     margin: 16px 0;
 }
- 
-
- 
 hr {
     border: none;
     border-top: 2px solid #777777;
     margin: 8px 0;
 }
-
 .contenedor {
     
     padding: 4px;
 }
-
 .menu-horizontal,
 .menu-vertical {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+margin: 0;
+padding: 0;
 }
- 
 .menu-horizontal {
     background-color: #857f5c;
     width: 93%;
 }
- 
 .menu-horizontal li {
     display: inline-block;   /* los elementos se colocan en fila */
     vertical-align: top;
@@ -53,6 +43,5 @@ hr {
     color: white;
 }
  
-.menu-vertical li.activo,
-.menu-vertical li:hover {
+.menu-vertical li.activo {
     background-color: #bb1f1f;}
